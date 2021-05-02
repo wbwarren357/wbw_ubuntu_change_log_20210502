@@ -34,6 +34,11 @@
 
 ## 20210502
 1. Installed "MarkDown All In One" VSCode extension
+2. Installed Gimp
+3. Installed Retext for markdown editing
+4. Installed Chromium
+5. Put my ubuntu change log under git and pushed to github
+
 
 
 
